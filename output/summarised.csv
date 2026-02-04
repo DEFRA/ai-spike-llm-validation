@@ -1,0 +1,789 @@
+document,summary,id,model_name,model_id,response,inputTokens,outputTokens,totalTokens,n_prompts,temperature,topP,question_column,answer_column,document_column,cacheReadInputTokens,cacheWriteInputTokens
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Claude 3 Haiku,anthropic.claude-3-haiku-20240307-v1:0,"Here is a summary of the key points:
+
+- A common dolphin was discovered on the high water line near Falmouth, Cornwall on Wednesday morning.
+- Members of the British Divers Marine Life Rescue covered the sick dolphin with wet towels and seaweed to keep it comfortable.
+- A vet assessed the dolphin and determined it was too ill to be returned to the sea.
+- There have been 41 strandings of common dolphins in Cornwall over the past year, according to the Marine Strandings Network.
+- Overall, nearly 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the 6 years up to December 2011, according to the Zoological Society of London.
+- While the number of strandings has fallen, the Zoological Society says some strandings still go unreported, and has launched a campaign to encourage the public to report any beached marine mammals.",206,208,414,5,0.5,0.5,Question,Correct Answers,document,,
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Claude 3.7 Sonnet,anthropic.claude-3-7-sonnet-20250219-v1:0,"A sick Common dolphin was found stranded at Gyllingvase near Falmouth on Wednesday. Despite rescue efforts by British Divers Marine Life Rescue, a vet determined it was too ill to return to sea. Cornwall has seen 41 Common dolphin strandings in the past year, while nearly 3,500 cetaceans were stranded across UK coastlines between 2005-2011. The Zoological Society of London reports declining stranding numbers overall but is campaigning for better public reporting of these incidents.",206,118,324,5,0.5,0.5,Question,Correct Answers,document,0.0,0.0
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Claude 3 Sonnet,anthropic.claude-3-sonnet-20240229-v1:0,"Here is a summary of the key points:
+
+- A Common dolphin was discovered stranded on the beach at Gyllingvase near Falmouth, Cornwall on Wednesday morning. 
+- Rescuers covered it with wet towels and seaweed to keep it comfortable.
+- A vet determined the dolphin was too sick to be returned to the sea.
+- There have been 41 strandings of Common dolphins in Cornwall in the past year, according to the Marine Strandings Network.
+- The Zoological Society of London recorded nearly 3,500 whale, dolphin and porpoise strandings on UK coasts from 2006-2011, though some go unreported.
+- The Society has launched a campaign encouraging the public to report any beached marine mammals they find.",206,177,383,5,0.5,0.5,Question,Correct Answers,document,,
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Llama 3 8B Instruct,meta.llama3-8b-instruct-v1:0,"
+
+A Common dolphin was found stranded on the beach at Gyllingvase near Falmouth, Cornwall, on Wednesday. The animal was too sick to be returned to the sea and was taken care of by British Divers Marine Life Rescue. This is the 41st Common dolphin stranding in Cornwall in the past year. According to the Marine Strandings Network, there have been over 3,500 whale, dolphin, and porpoise strandings on UK coastlines in the past six years. The Zoological Society of London has launched a campaign to encourage the public to report any beached mammals, as some strandings may not be being reported.",194,135,329,5,0.5,0.5,Question,Correct Answers,document,,
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Llama 3 70B Instruct,meta.llama3-70b-instruct-v1:0,"
+
+Here's a summary:
+
+A Common dolphin was found stranded on the beach at Gyllingvase near Falmouth on Wednesday. Rescuers attempted to keep it comfortable, but a vet determined it was too sick to be returned to the sea. This is the 41st Common dolphin stranding in Cornwall in the past year. According to the Zoological Society of London, there were almost 3,500 whale, dolphin, and porpoise strandings on UK coastlines between 2005 and 2011, although the number has decreased in recent years. The Society is now launching a campaign to encourage the public to report any beached mammals they find.",194,138,332,5,0.5,0.5,Question,Correct Answers,document,,
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Nova Lite,amazon.nova-lite-v1:0,"A Common dolphin was found stranded at Gyllingvase near Falmouth. British Divers Marine Life Rescue provided care, but a vet determined the dolphin was too ill to survive in the sea. Cornwall has seen 41 Common dolphin strandings in the past year, and over 3,500 whales, dolphins, and porpoises have been stranded on UK coastlines up to December 2011. Although the number of strandings has decreased, underreporting remains an issue. The Zoological Society of London has launched a campaign to encourage public reporting of beached mammals.",181,120,301,5,0.5,0.5,Question,Correct Answers,document,,
+"The Common dolphin was discovered on the high water line at Gyllingvase near Falmouth early on Wednesday.
+Members of British Divers Marine Life Rescue covered the animal with wet towels and seaweed to keep it comfortable.
+A vet who was called to the scene assessed that it was too sick to be returned to the sea.
+There have been 41 strandings of Common dolphins in Cornwall in the past year according to figures from the Marine Strandings Network.
+Almost 3,500 whales, dolphins and porpoises have been stranded on UK coastlines over the six years up to December 2011, according to the Zoological Society of London (ZSL).
+Overall it recorded a fall in the number of strandings but said that some still were not being reported.
+The Society has launched a campaign to encourage the public to tell them when they find beached mammals.","A dolphin found stranded on a Cornish beach has been put down, say marine rescuers.",19811758,Nova Pro,amazon.nova-pro-v1:0,"A Common dolphin was found stranded at Gyllingvase near Falmouth. Rescuers from British Divers Marine Life Rescue attempted to keep it comfortable, but a vet determined it was too sick to return to the sea. In the past year, there have been 41 Common dolphin strandings in Cornwall. The Zoological Society of London reports nearly 3,500 whales, dolphins, and porpoises have stranded on UK coastlines over six years, though strandings have decreased. The Society urges the public to report stranded marine mammals.",181,111,292,5,0.5,0.5,Question,Correct Answers,document,,
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Claude 3 Haiku,anthropic.claude-3-haiku-20240307-v1:0,"Here is a summary of the key points:
+
+- Jaroslaw Kaczynski, the twin brother of the late Polish President Lech Kaczynski, is boycotting the official memorial events for the 2010 plane crash that killed his brother and other top Polish officials.
+
+- Kaczynski's supporters are planning to gather outside the presidential palace to remember the victims and express anger at the Russians and the Polish government's handling of the crash investigation.
+
+- The crash initially united Poland in shock and mourning, with thousands coming to pay respects at the presidential palace even if they opposed Lech Kaczynski's policies.
+
+- The crash was Poland's worst disaster since WWII, killing the president, his wife, military commanders, and other top officials who were traveling to a Katyn massacre memorial.
+
+- Divisions soon emerged, with controversy over burying the president at the historic Wawel Cathedral.
+
+- Jaroslaw Kaczynski, a more nationalist politician than his brother, has made the crash and investigation a central issue for his party, disputing the Russian-led investigation's findings.
+
+- The investigation was seen by many Poles as incomplete, fueling conspiracy theories and distrust of Russia, though the Polish government accepted the main findings.
+
+- There is public fatigue with the constant media coverage of the crash, with 78% saying it is being used as a political tool.
+
+- Most Poles want the anniversary to be a unifying event rather than a divisive one.",960,332,1292,5,0.5,0.5,Question,Correct Answers,document,,
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Claude 3.7 Sonnet,anthropic.claude-3-7-sonnet-20250219-v1:0,"# Summary of the Smolensk Air Crash Anniversary in Poland
+
+One year after the plane crash that killed Polish President Lech Kaczynski and 95 others near Smolensk, Russia, Poland remains deeply divided. Jaroslaw Kaczynski, the late president's twin brother and opposition leader, is boycotting official memorial events and has rejected the Russian investigation's findings, which blamed pilot error and pressure to land in poor visibility. While the tragedy initially united Poland in mourning, it quickly became politicized. A recent poll shows 78% of Poles believe the crash circumstances remain unclear, though most don't support conspiracy theories. The majority of Poles (87%) feel the tragedy is being used as a political tool, with many growing tired of the constant media coverage. Despite efforts to improve Polish-Russian relations, the crash investigation has revived old suspicions between the nations.",960,195,1155,5,0.5,0.5,Question,Correct Answers,document,0.0,0.0
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Claude 3 Sonnet,anthropic.claude-3-sonnet-20240229-v1:0,"Here is a summary of the key points:
+
+- Jaroslaw Kaczynski, the late president's twin brother and leader of the opposition Law and Justice party, is boycotting the official memorial events for the Smolensk air crash anniversary. His supporters plan to hold their own gathering.
+
+- The crash initially united Poland in shock and mourning, but divisions soon emerged over issues like the burial location of the president and his wife. 
+
+- Jaroslaw Kaczynski has made the crash investigation a central issue, accusing the government of being subservient to Russia. He rejects the findings that blamed the pilots' decision to land in poor visibility.
+
+- The Russian investigation concluded pilot error caused the crash, but Poland criticized Russia for not fully examining its own role. Both sides stressed it should not derail improved relations.
+
+- Conspiracy theories persist for some in Poland about Russian involvement, though most do not believe them. 78% feel the circumstances remain unclear.
+
+- The media's constant coverage has led to fatigue, with 78% bored by it and 87% believing it is being exploited politically. 
+
+- Most Poles want the anniversary to be an occasion for national unity rather than further division.",960,266,1226,5,0.5,0.5,Question,Correct Answers,document,,
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Llama 3 8B Instruct,meta.llama3-8b-instruct-v1:0,"
+
+The article discusses the upcoming anniversary of the Smolensk plane crash that killed Polish President Lech Kaczynski and many other high-ranking officials in 2010. The crash was a national tragedy that initially united the country in shock and mourning, but divisions soon emerged. Jaroslaw Kaczynski, the president's identical twin brother and leader of the opposition party Law and Justice, is boycotting the official memorial events and instead planning to gather with supporters outside the presidential palace to remember the victims and express anger towards the Russians and the government for their handling of the crash investigation.
+
+The investigation, led by the Russians, concluded that the pilots' decision to attempt to land in poor visibility was the main cause of the crash. However, the Polish government criticized the report for not fully investigating the role of Russian air traffic controllers. Jaroslaw Kaczynski has accused the government of being too soft on Russia and has claimed that Moscow bears direct responsibility for the crash.
+
+The crash has been used as a political tool by politicians, with Jaroslaw Kaczynski making it a central issue for his party. The media has also played a significant role, with many Poles feeling that the crash is being over-covered and used to distract from other issues. A recent survey found that 78% of Poles are bored and irritated by the constant coverage, and 87% believe that the crash is being used as a political tool.
+
+Most Poles want the anniversary to be an occasion that unites the nation rather than divides it.",899,314,1213,5,0.5,0.5,Question,Correct Answers,document,,
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Llama 3 70B Instruct,meta.llama3-70b-instruct-v1:0,"
+
+Here's a summary of the article:
+
+It's been a year since the plane crash in Smolensk, Russia, that killed Polish President Lech Kaczynski, his wife, and 94 others. The crash was a national tragedy that initially united Poland in shock and mourning. However, the unity was short-lived due to political divisions and controversy surrounding the investigation.
+
+Jaroslaw Kaczynski, the president's twin brother and leader of the opposition party Law and Justice, is boycotting official memorial events and instead plans to hold a separate gathering outside the presidential palace to remember the victims and express anger towards the Russian government and the Polish government's handling of the investigation.
+
+The Russian investigation concluded that the crash was caused by the pilots' decision to land in poor visibility, but many Poles, including Jaroslaw Kaczynski, are skeptical of the findings and believe the Russians bear responsibility for the crash. Conspiracy theories, including the idea that the Russians created the fog to bring the plane down, have also gained traction.
+
+The media has played a significant role in keeping the story in the public eye, but many Poles are growing tired of the constant coverage. A recent survey found that 78% of Poles are bored and irritated with the constant mentions of the crash, and 87% believe it's being used as a political tool.
+
+Despite the divisions, most Poles want the anniversary to be a unifying moment for the nation.",899,298,1197,5,0.5,0.5,Question,Correct Answers,document,,
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Nova Lite,amazon.nova-lite-v1:0,"Jaroslaw Kaczynski, the twin brother of the late Polish president and leader of the opposition party Law and Justice, is boycotting the official memorial events for the plane crash that killed his brother and many other prominent figures. The tragedy initially united the country in shock and mourning, but divisions soon emerged over the burial location and the handling of the crash investigation. The Russian investigation concluded that the pilots' decision to land in poor visibility caused the crash, but many in Poland are dissatisfied with the findings and believe the circumstances have not been fully explained. Jaroslaw Kaczynski has accused the government of being too lenient towards the Russians and has made the crash a central issue for his party. The media has extensively covered the crash, leading to public fatigue and a belief that it is being used as a political tool. Most Poles hope the anniversary will be a unifying occasion rather than a divisive one.",872,178,1050,5,0.5,0.5,Question,Correct Answers,document,,
+"Jaroslaw Kaczynski, the identical twin brother of the late president and leader of the country's main opposition party, Law and Justice, is boycotting the official memorial events.
+His supporters are also planning to gather outside the presidential palace to remember the victims and vent their anger against the Russians and the government for their handling of the crash investigation.
+For a brief time the tragedy united the country in shock, at first, and then mourning for the victims.
+Thousands came from all over the country to place flowers and candles in front of the presidential palace. They did so even if they opposed Lech Kaczynski's policies.
+It was the nation's worst disaster since World War Two. Apart from the president and his wife, Maria, the crash claimed the lives of the commanders of the armed forces, the heads of the National Bank and Olympic Committee, and politicians from all parties.
+The location of the disaster was hugely symbolic too. The delegation was on its way to attend a 70th anniversary ceremony of the Katyn massacre, one of Poland's most painful wartime events in which more than 20,000 Polish officers, the country's elite, were murdered on Stalin's orders.
+It is perhaps not surprising that the unity did not last long. Lech Kaczynski was a divisive figure and many Poles disliked his nationalism and combative relations with Germany and Russia.
+Divisions arose within days when it was announced that Lech Kaczynski and his wife would be buried among Poland's kings at Krakow's Wawel Cathedral. Many Poles felt the location was inappropriate.
+Over the course of the year the tragedy has been used instrumentally by politicians here.
+Clearly devastated by the death of his twin, sister-in-law, and many close friends and colleagues, Jaroslaw Kaczynski, a more aggressive and nationalist politician than his brother, has made the crash, and the investigation into it, the central issue for his party.
+The investigation was carried out by the Russians because the crash happened at Smolensk military airfield near Katyn.
+In January, the Russian investigation released its final report and found that the immediate cause of the crash was the pilots' decision to attempt to land despite extremely poor visibility caused by dense fog at the airfield.
+The report also concluded that the pilots were put under pressure to attempt the landing because they expected a negative reaction from Lech Kaczynski if they decided to fly to a reserve airport with better weather conditions. That would have considerably delayed the delegation on its way to the Katyn memorial service.
+The Polish government accepted the report's main findings but criticised the Russians for failing to investigate its own role in the tragedy, namely the actions of the air traffic controllers at Smolensk.
+It was notable however that both countries' foreign ministers stressed that it would not derail the hitherto successful attempts to normalise relations.
+But the fact that the investigation was seen by many here as being neither comprehensive nor fair raised old suspicions about the Russians.
+It has also added fuel to conspiracy theories - such as that the Russians artificially created the fog to bring the plane down.
+The majority of people here do not believe in those conspiracies, but an opinion poll this week found that 78% of respondents reckon the circumstances of the crash have not been fully cleared up.
+Poland has yet to complete its own investigation into the disaster.
+Jaroslaw Kaczynski does not accept the findings of the investigation. He has accused the government of ""servility"" towards the Russians who, he says, ""bear direct responsibility for the crash"".
+He has said that it was Moscow which took the decision to allow the plane to land in such poor weather not the air traffic controllers.
+The media has also played an important role over the year. With 24-hour rolling news and so much air time to fill barely a day goes by without a mention of the crash and some new development.
+A recent survey said 78% of Poles were bored and irritated of hearing about it all the time. A group of students started a campaign on the social networking site Facebook to have one full day without mentioning the disaster.
+The poll also found that 87% believed the crash was being used as a political tool.
+Most Poles want Sunday's anniversary to be an occasion that unites the nation rather than divides it.",Poland is marking the first anniversary of the plane crash which killed President Lech Kaczynski and 95 others with rival commemorations highlighting the bitter divisions which still surround the tragedy.,13025746,Nova Pro,amazon.nova-pro-v1:0,"The 2010 Smolensk plane crash, which killed Polish President Lech Kaczynski and 95 others, initially united Poland in mourning but soon became a source of division and political contention. The crash occurred while the delegation was en route to a ceremony commemorating the Katyn massacre, a deeply symbolic event. The investigation, conducted by Russia, concluded that pilot error amid poor visibility was the primary cause, though it faced criticism for not fully examining Russian air traffic control's role. 
+
+Jaroslaw Kaczynski, Lech’s twin brother and leader of the opposition Law and Justice party, boycotted official memorial events, accusing the government of being subservient to Russia and claiming Moscow was directly responsible for the crash. His supporters planned separate gatherings to express anger towards Russia and the government.
+
+The tragedy has been heavily politicized, with many viewing it as a tool for political gain. Media coverage has been extensive, leading to public fatigue, as evidenced by an opinion poll showing 78% of Poles bored by constant mentions of the crash and 87% believing it is used for political purposes. Despite this, most Poles hope the anniversary will serve as a moment of national unity rather than division.",872,241,1113,5,0.5,0.5,Question,Correct Answers,document,,
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Claude 3 Haiku,anthropic.claude-3-haiku-20240307-v1:0,"Here's a summary of the key points:
+
+- In the last Prime Minister's Questions (PMQs) before the summer break, Labour leader Jeremy Corbyn accused the government of being out of touch with reality and not doing enough to address low pay.
+
+- Prime Minister Theresa May said the Conservatives value public services, but argued they know they have to pay for them, unlike Labour.
+
+- There have been reports of infighting and leaks within the Conservative government, with Chancellor Philip Hammond allegedly telling a private meeting that public sector workers are ""overpaid"".
+
+- Corbyn questioned whether Hammond was referring to May's own ministers, and urged the government to lift the public sector pay cap.
+
+- May defended the government's record, but Corbyn criticized the £1 billion deal with the DUP to prop up the Tory minority government.
+
+- May is under pressure to restore order in the party, warning ministers against ""backbiting"" that could help Corbyn come to power.
+
+- There are signs of a backlash from MPs against the ""big beasts"" thought to be maneuvering to replace May, who is being urged to sack any plotting ministers.",613,257,870,5,0.5,0.5,Question,Correct Answers,document,,
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Claude 3.7 Sonnet,anthropic.claude-3-7-sonnet-20250219-v1:0,"# Summary of PMQs Before Summer Break
+
+In the final Prime Minister's Questions before summer recess, Jeremy Corbyn criticized the government for being out of touch with reality regarding low pay, while Theresa May defended her party's approach to public services, emphasizing the need to fund them responsibly. The exchange occurred amid reports of cabinet infighting, including alleged comments by Chancellor Philip Hammond about public workers being ""overpaid.""
+
+Corbyn called for lifting the public sector pay cap and accused the cabinet of ""bickering and backbiting"" during economic weakness. May acknowledged public servants' sacrifices but criticized Labour for making unfunded spending promises. Corbyn countered by referencing the £1bn deal with the DUP to secure government support.
+
+With Parliament entering summer recess until September 5th, May faces continued pressure following her lost majority. Some Conservative MPs are pushing back against potential leadership challenges, with Defense Secretary Michael Fallon calling for ""military discipline"" within the cabinet.",613,213,826,5,0.5,0.5,Question,Correct Answers,document,0.0,0.0
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Claude 3 Sonnet,anthropic.claude-3-sonnet-20240229-v1:0,"Here is a summary of the key points:
+
+- In the last PMQs before the summer break, Jeremy Corbyn accused the government of being out of touch on low pay and public sector wage restraint. 
+
+- Theresa May defended the Conservatives' record, saying they know public services must be paid for, unlike Labour's unfunded spending pledges.
+
+- Corbyn highlighted reported comments by Philip Hammond that public sector workers are ""overpaid"" as evidence of government squabbling.
+
+- May acknowledged sacrifices made by public servants but said the Tories have a good record on reducing the deficit.
+
+- Corbyn criticized the £1bn deal struck with the DUP to prop up May's minority government.
+
+- There are signs of a backlash among Tory MPs against ministers perceived to be maneuvering to replace May as leader.
+
+- Senior figures like Charles Walker and Michael Fallon voiced support for May to stay on and warned against cabinet disloyalty.
+
+- May urged ministers to accept collective responsibility but left the door open to potential sackings over leaks.",613,240,853,5,0.5,0.5,Question,Correct Answers,document,,
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Llama 3 8B Instruct,meta.llama3-8b-instruct-v1:0,"
+
+In the final PMQs before the summer break, Jeremy Corbyn criticized the government's handling of public services, accusing ministers of being out of touch with reality and holding people back with low pay. Theresa May responded by saying that the government values public services, but knows that they need to be paid for. Corbyn cited the example of a nurse living on a low wage for seven years and urged the government to lift the cap on wage rises. May accused Labour of making unfunded spending pledges and defended the government's record on reducing the deficit.
+
+The session was marked by tension and infighting within the Conservative Party, with Corbyn referencing a reported comment by Chancellor Philip Hammond that public service workers are ""overpaid"". May is trying to restore order to her party after a series of leaks and negative briefings, and has warned ministers and MPs that any ""backbiting"" could let Corbyn into Downing Street.
+
+Despite the internal divisions, there is now a growing pushback from MPs against the ""big beasts"" thought to be plotting to replace May. A senior backbencher has said that May would have their backing if she sacked plotting ministers, and Defence Secretary Sir Michael Fallon has called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Corbyn. May has urged ministers to ""accept collective responsibility"" and has hinted that there may be consequences for those who leak private conversations.",566,280,846,5,0.5,0.5,Question,Correct Answers,document,,
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Llama 3 70B Instruct,meta.llama3-70b-instruct-v1:0,"
+
+Here's a summary of the article:
+
+In the last Prime Minister's Questions (PMQs) before the summer break, Labour leader Jeremy Corbyn accused the government of being out of touch with reality and criticized low pay for public servants. Prime Minister Theresa May responded by saying that her party values public services, but knows that they need to be paid for. Corbyn urged May to lift the cap on wage rises and cited the case of a nurse who has faced pay restraint for seven years. May recognized the sacrifices made by public servants, but accused Labour of making unfunded spending pledges. The exchange came amid reports of infighting within the Conservative party, with Chancellor Philip Hammond reportedly saying that public service workers are ""overpaid"". May has warned her party against ""backbiting"" and has urged ministers to accept collective responsibility. Some MPs have expressed support for May, with one senior backbencher saying she would have their backing if she sacked plotting ministers. Parliament will go into recess on Thursday and return on September 5.",566,206,772,5,0.5,0.5,Question,Correct Answers,document,,
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Nova Lite,amazon.nova-lite-v1:0,"During the final Prime Minister's Questions (PMQs) before the summer break, Labour leader Jeremy Corbyn criticized the government for low pay and accused ministers of being out of touch with reality. Prime Minister Theresa May responded by emphasizing the need to pay for public services and highlighting the sacrifices made by public servants. Corbyn urged the government to lift the cap on wage increases and cited the case of a nurse who had been living under pay restraint for seven years. May acknowledged the contributions of public servants in reducing the deficit and accused Labour of making unfunded spending pledges. The session also touched on internal party disputes, with Corbyn referencing the £1bn package that secured the Democratic Unionist Party's support for the Tories' minority administration. As Parliament prepares to go into recess, there is growing concern within the Conservative Party about potential leadership challenges, with some MPs pushing back against efforts to replace May.",666,177,843,5,0.5,0.5,Question,Correct Answers,document,,
+"In the last PMQs before the summer break, Mr Corbyn said people were held back by low pay and accused ministers of a ""lack of touch with reality"".
+Mrs May said she, like the Labour leader, valued public services.
+""The difference is on this side of the house we know we have to pay for them,"" she added.
+Mrs May is seeking to restore order to her party following a series of leaks and negative briefings, with Chancellor Philip Hammond reported to have told a private cabinet meeting public service workers were ""overpaid"".
+Mr Corbyn asked whether, given the ""squabbling"" inside government, Mr Hammond had been talking about Mrs May's ministers.
+He urged her to lift the cap on wage rises and cited the case of a nurse living with pay restraint for seven years.
+""I look along that front bench opposite and I see a cabinet bickering and backbiting while the economy gets weaker and people are pushed further into debt,"" he added.
+Mrs May said she recognised the sacrifices made by public servants towards reducing the deficit. She said the Tories had a ""record to be proud of"" and accused Labour of unfunded spending pledges.
+""The government doesn't seem to have any problem paying for DUP support,"" Mr Corbyn replied, in a reference to the Â£1bn package that secured the Democratic Unionist Party's backing for the Tories' minority administration.
+Parliament goes into recess on Thursday and returns on 5 September.
+Mrs May, under pressure since losing her Commons majority last month, has warned ministers and MPs that any ""backbiting"" between party figures could let Mr Corbyn into Downing Street.
+During PMQs, Labour MP Ian Murray referred to her as the ""interim prime minister"" when he asked his question.
+BBC assistant political editor Norman Smith said there was now ""something of a backlash"" from MPs towards the ""big beasts"" thought to be manoeuvring themselves behind the scenes to replace her.
+""I sense there's a real pushback now to keep her in place at least for the short to medium term,"" he added.
+A senior backbencher, 1922 Committee vice-chairman Charles Walker, said Mrs May would have MPs' backing if she sacked plotting ministers.
+And Defence Secretary Sir Michael Fallon called for military discipline from the cabinet ranks to confront the ""dangerous enemy"" of Mr Corbyn.
+In an interview with LBC Radio, Mrs May urged ministers to ""accept collective responsibility"".
+Asked whether there would be any punishment for those who'd leaked private conversations, she said there was ""no such thing as an unsackable minister but at the moment the team is together and we're getting on with the job of delivering what we believe that British public want us to do"".","Theresa May has said she recognises the ""sacrifice"" made by public sector workers as Jeremy Corbyn urged her to lift the 1% cap on their wages.",40653456,Nova Pro,amazon.nova-pro-v1:0,"During the last Prime Minister's Questions (PMQs) before the summer break, Jeremy Corbyn criticized the government for low pay and accused ministers of being out of touch with reality. He urged Theresa May to lift the cap on wage rises, highlighting the case of a nurse affected by pay restraint for seven years. May defended her party's record, emphasizing the need to pay for public services and accusing Labour of making unfunded spending pledges. Corbyn referenced the £1bn package that secured the Democratic Unionist Party's (DUP) support for the Tories' minority administration. Amid internal party strife, May warned against backbiting, which could benefit Corbyn. BBC assistant political editor Norman Smith noted a backlash from MPs against those maneuvering to replace May, with some calling for unity and military discipline within the cabinet. May urged her ministers to accept collective responsibility and maintain focus on delivering for the British public.",666,181,847,5,0.5,0.5,Question,Correct Answers,document,,
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Claude 3 Haiku,anthropic.claude-3-haiku-20240307-v1:0,"Here's a summary of the key points:
+
+- When Angie Konrad tweeted about the heating being switched off on her train, the operators read her tweet and alerted the driver to turn the heating back on.
+
+- Twitter enables companies to engage more directly with customers and quickly resolve issues in real-time, compared to traditional channels like phone calls.
+
+- Negative comments or bad reviews on Twitter can spread quickly and put pressure on companies to address customer complaints swiftly in a public forum.
+
+- Companies are learning to respond to complaints on Twitter in a personalized, humorous or self-deprecating way, which can sometimes turn the situation around and generate positive sentiment.
+
+- Consumers are becoming more savvy about using social media to contact companies, with 36% having used it to reach out to big businesses.
+
+- While Twitter is useful for quick issue resolution, it may not be the best channel for more complex banking or financial complaints that require more private discussion.
+
+- Twitter also enables consumers to provide positive feedback to companies, not just air grievances.",1086,226,1312,5,0.5,0.5,Question,Correct Answers,document,,
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Claude 3.7 Sonnet,anthropic.claude-3-7-sonnet-20250219-v1:0,"# Twitter as a Customer Service Tool
+
+The article discusses how Twitter has transformed customer service interactions. When Angie Konrad tweeted about her train's heating being off, the train operator saw her message and had the driver turn it on, demonstrating Twitter's effectiveness for real-time problem solving.
+
+## Key points:
+
+- Twitter creates public accountability for companies, unlike private phone calls
+- Public complaints can be seen by millions, motivating quick company responses
+- Skilled social media representatives can turn negative situations positive through humor and personalized responses
+- Consumers increasingly expect genuine dialogue with companies rather than transactional relationships
+- A 2012 poll found 36% of people had used social media to contact large companies, with 65% finding it better than call centers
+- Twitter complaints aren't limited to young people; 27% of over-55s had used social media to complain
+- For financial services, Twitter often helps customers bypass long phone queues and get directed to appropriate resources
+- The public nature of Twitter may not be suitable for all types of complaints, particularly sensitive banking issues
+- Twitter also facilitates positive customer feedback, not just complaints",1086,246,1332,5,0.5,0.5,Question,Correct Answers,document,0.0,0.0
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Claude 3 Sonnet,anthropic.claude-3-sonnet-20240229-v1:0,"Here is a summary of the key points:
+
+- Twitter is allowing companies to engage more directly with customers, both resolving complaints quickly in real-time and receiving positive feedback. 
+
+- Companies are motivated to respond promptly on public platforms like Twitter to avoid negative comments going viral and damaging their reputation.
+
+- Some companies have skillfully used humor and a personal touch when responding to complaints on Twitter, which can turn criticism into positive sentiment.
+
+- Consumers increasingly expect companies to have authentic dialogues with them as individuals, not just transactions.
+
+- Complaining via Twitter is growing in popularity as it allows issues to be pushed to the front of the queue faster than call centers.
+
+- However, sensitive issues like banking problems may not be suitable for public resolution on Twitter.
+
+- While Twitter facilitates complaints, it also allows customers to easily provide positive feedback to companies they are satisfied with.
+
+In essence, Twitter is changing the customer service landscape by enabling real-time public interactions that motivate companies to respond promptly and personally to both criticisms and compliments.",1086,223,1309,5,0.5,0.5,Question,Correct Answers,document,,
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Llama 3 8B Instruct,meta.llama3-8b-instruct-v1:0,"
+
+The article discusses how Twitter is changing the way companies interact with their customers, enabling them to engage in a more personal and real-time relationship. It highlights how companies are using Twitter to respond quickly to customer complaints and grievances, often in a humorous and self-deprecating way. This can not only resolve issues but also turn negative experiences into positive ones.
+
+The article cites examples of companies such as O2 and Argos, which have successfully used Twitter to respond to customer complaints and turn them into positive experiences. It also quotes David Schneider, a Twitter expert, who notes that companies are aware of the power of Twitter and are using it to engage with customers in a public space.
+
+The article also notes that consumers are becoming more savvy and expect companies to relate to them as real people, rather than just transactions. It quotes Jo Causon, CEO of the Institute of Customer Service, who says that consumers want to have a dialogue with companies, rather than just a monologue.
+
+The article also highlights the importance of choosing the right channel for a complaint, noting that some issues may not be suitable for a public platform like Twitter. However, it also notes that Twitter can be a useful tool for resolving issues and providing positive feedback to companies.
+
+Overall, the article suggests that Twitter is changing the way companies interact with their customers, enabling them to engage in a more personal and real-time relationship. It also notes that consumers are becoming more savvy and expect companies to respond to their complaints and feedback in a timely and effective manner.",1006,305,1311,5,0.5,0.5,Question,Correct Answers,document,,
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Llama 3 70B Instruct,meta.llama3-70b-instruct-v1:0,"
+
+The article discusses how Twitter is changing the way companies interact with their customers, particularly when it comes to complaints and customer service. Here are the main points:
+
+* Twitter allows customers to publicly express their grievances, which can prompt companies to respond quickly to resolve the issue and avoid negative publicity.
+* Companies are aware that a bad review or negative comment can be retweeted by millions, so they're motivated to defuse customer anger quickly in a public space like Twitter.
+* When done well, responding to customer complaints on Twitter can even work in a company's favor, as it shows they're listening and care about their customers.
+* Examples of companies successfully handling customer complaints on Twitter include O2, which used humor to respond to angry customers during a network outage, and Argos, which replied to a customer's complaint in a playful, street-style tone that went viral.
+* Consumers are becoming more savvy and expect companies to relate to them as human beings, not just transactions. They want better dialogue, not just monologue, with organizations.
+* A poll found that 36% of people have used social media to contact a big company, and 65% said it was a better way than call centers to get in touch with companies.
+* Complaints via Twitter are expected to increase in popularity with the growth of social media.
+* While Twitter can be a useful channel for complaining, it's not always the best choice for every problem. Consumers should be responsible about choosing the right channel for their complaint.
+* Twitter also makes it easier for consumers to give positive feedback to companies, so there's no danger of becoming a nation of whingers.",1006,330,1336,5,0.5,0.5,Question,Correct Answers,document,,
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Nova Lite,amazon.nova-lite-v1:0,"Twitter has transformed the way companies interact with customers, offering a platform for both grievances and positive feedback. When Angie Konrad tweeted about her train's heating being off, the train operators responded swiftly, showcasing how companies can address issues in real-time. Comedian and social media expert David Schneider highlights that Twitter's public nature pressures companies to resolve issues quickly, as seen in O2's humorous response to network outages. 
+
+Argos's creative reply to a customer's complaint went viral, demonstrating the power of personal and engaging responses. Jo Causon from the Institute of Customer Service emphasizes the importance of dialogue over monologue, with 65% of people preferring social media over call centers for contacting companies. 
+
+Financial services complaints on Twitter, though not always resolved, expedite issue escalation, as noted by Hannah Moore. Causon advises consumers to choose the appropriate channel for their complaints, balancing public and private communication. Ultimately, Twitter facilitates easier complaint resolution and positive feedback, making it a valuable tool for consumer engagement.",1135,204,1339,5,0.5,0.5,Question,Correct Answers,document,,
+"When Angie Konrad tweeted that the heating was switched off on her train, she did not expect the operators of that line to read the message and alert the driver to switch the heating on so she could enjoy the rest of her journey in comfort.
+Twitter is enabling companies to engage in a much warmer relationship with their clientele, but when things go wrong for the customer, it is also the best way to get grievances resolved quickly and in real time says comedian David Schneider, who is also a Twitter expert and runs social media consultancy That Lot.
+""If you're 29th in the queue on a phone call, only you know that. It's you and the person who's keeping you on hold. But if you tweet, it's public and it could be picked up, and I think companies are very aware of that,"" says Mr Schneider.
+Or catch up on BBC iPlayer
+A bad review or negative comment can be retweeted by millions, and companies are often keen to defuse customer anger very quickly in a public space such as Twitter. If it is done cleverly, it can even work in a company's favour.
+""I remember there was a time where there was an outage on O2 on the network and they were getting a hell of a lot of bad press,"" says Mr Schneider. ""People were tweeting very aggressively at the O2 account and about O2 - it was trending.
+""They happened to have a very skilful, self-deprecating, humorous person on their Twitter feed at that time who dealt with the abuse in a very amusing way.""
+Mr Schneider says it was interesting to see a wave of criticism turn to positive comments from the customers.
+When a complaint is treated with a personal touch, it can even go viral on Twitter. For instance one Argos customer service representative chose to reply to customer Immy ""Badman"" Bugti's complaint using the same street style he had used in his tweet.
+A shortened version of the messages read: ""@Argos_online: Yo, wen you gettin' da ps4 tings in moss side? Ain't waitin' no more.""
+""@BadManBugti: Safe Badman. We gettin' sum more PS4 tings in wivin da next week, y'get me.""
+The company response from Argos was retweeted over 1,500 times within the space of a few hours.
+Jo Causon, chief executive of the Institute of Customer Service, says consumers are becoming much more savvy and expect organisations to relate to them as real life human beings and not simply transactions any more.
+""One of the key things that we're seeing in the changing world we're all living in is that we want to have better dialogue, not just monologue, with our organisations,"" says Ms Causon.
+According to a poll of 2,000 people by the communications agency Fishburn Hedges and Echo Research in April 2012, 36% of people had used a social media platform to contact a big company and 65% said it was a better way than call centres to get in touch with companies.
+It was not just confined to the young either, with 27% of people aged over 55 having used social media to complain.
+Ms Causon expects complaints via Twitter to only increase in popularity with the growth of social media.
+""A lot of us at the moment are not complaining necessarily through Twitter, but as we progress, it certainly is a medium of choice, and organisations will need to be able to respond appropriately,"" says Ms Causon.
+With almost 15,000 complaints a day about financial services in 2013, according to complaints data from the Financial Conduct Authority, Hannah Moore from BBC Radio 4's Money Box programme monitored the Twitter feeds of eight of the major banks for a working day and found problems were not necessarily resolved on Twitter, but it did help push requests to the front of the queue.
+""When customers complained about hanging on premium rate phonelines, [some] staff promised to call them instead, and if you're confused about which department you need to get in touch with, Twitter's really helpful,"" she says.
+""The best banks provided the correct phone numbers, forms and web links within minutes - again saving you time on an 0845 number.""
+According to Ms Causon it's important for the consumer to be responsible about choosing the right channel for their complaint too.
+""A banking problem in itself doesn't necessarily lend itself to a very public place like Twitter, so I think it's about the nature of the problem and what you're looking to have resolved.""
+If Twitter is making it easier to complain, it also makes it easier for consumers to give positive feedback to companies too, so there is no danger we will turn into a nation of whingers.
+Listen to the full report on Money Box on BBC Radio 4. Or catch up on BBC iPlayer.","There was a time when a strongly worded letter was the only means of having your complaint heard by a company, but is tweeting now the best way to get your gripe to the front of the queue?",27381699,Nova Pro,amazon.nova-pro-v1:0,"Twitter has become a popular platform for customers to voice their complaints and for companies to address them promptly. Comedian and Twitter expert David Schneider notes that public tweets can be picked up by companies, who are aware of the potential for negative comments to go viral. When handled skillfully, such interactions can even turn criticism into positive feedback. For instance, O2's humorous response to network outage complaints helped shift the conversation positively. Similarly, Argos' street-style reply to a customer's complaint about PlayStation 4 availability went viral. Jo Causon, CEO of the Institute of Customer Service, highlights the importance of companies engaging in dialogue with customers rather than treating them as mere transactions. A 2012 poll indicated that 36% of people had used social media to contact companies, with 65% finding it more effective than call centers. As social media usage grows, so too is the expectation for companies to respond appropriately to complaints on platforms like Twitter. However, it's also important for consumers to choose the right channel for their complaints, as not all issues are suited to public platforms like Twitter. Positive feedback is also common on Twitter, balancing out the complaints.",1135,237,1372,5,0.5,0.5,Question,Correct Answers,document,,
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Claude 3 Haiku,anthropic.claude-3-haiku-20240307-v1:0,"Here's a summary of the key points:
+
+- Lily Hartley was a patient at Bradford Royal Infirmary when two rings that belonged to her late husband were stolen.
+- Lily's granddaughter, Emma Hartley, reported the theft on Facebook, stating the rings had sentimental value.
+- The Bradford Teaching Hospitals NHS Foundation Trust apologized to the family and said they were fully investigating the matter.
+- West Yorkshire Police confirmed they had been alerted to the theft involving Lily Hartley, as well as a second theft at the hospital involving another woman in her 80s.
+- The police believe two female victims in their 80s had jewelry stolen from them at the hospital between March 26 and 29.",171,163,334,5,0.5,0.5,Question,Correct Answers,document,,
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Claude 3.7 Sonnet,anthropic.claude-3-7-sonnet-20250219-v1:0,"The summary is about the theft of two rings with sentimental value belonging to Lily Hartley's late husband while she was at Bradford Royal Infirmary. Her granddaughter Emma reported the theft on Facebook. The hospital trust has apologized and is investigating. Police are looking into this theft and another incident involving an elderly woman, with both thefts occurring between March 26-29.",171,86,257,5,0.5,0.5,Question,Correct Answers,document,0.0,0.0
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Claude 3 Sonnet,anthropic.claude-3-sonnet-20240229-v1:0,"Here is a summary of the key points:
+
+- Lily Hartley's two rings that belonged to her late husband were stolen while she was a patient at Bradford Royal Infirmary.
+
+- Her granddaughter Emma Hartley reported the theft on Facebook, stating the rings had sentimental value.
+
+- Bradford Teaching Hospitals NHS Foundation Trust apologized to the family and said they are fully investigating the matter.
+
+- West Yorkshire Police reported that two women in their 80s, including Mrs. Hartley, had jewelry items stolen from the hospital between March 26-29.
+
+- The police are investigating the two theft incidents that occurred at Bradford Royal Infirmary during that time period.",171,151,322,5,0.5,0.5,Question,Correct Answers,document,,
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Llama 3 8B Instruct,meta.llama3-8b-instruct-v1:0,"
+
+Lily Hartley had two rings, which belonged to her late husband, stolen from Bradford Royal Infirmary. Her granddaughter reported the theft on Facebook, stating the rings had sentimental value. The hospital apologized and is investigating the matter. West Yorkshire Police has also been alerted and is investigating two separate thefts of jewelry from women in their 80s at the hospital between March 26-29.",159,82,241,5,0.5,0.5,Question,Correct Answers,document,,
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Llama 3 70B Instruct,meta.llama3-70b-instruct-v1:0,"
+
+Two elderly women, including Lily Hartley, had sentimental jewelry stolen from them while they were patients at Bradford Royal Infirmary between March 26-29. The stolen items included two rings that belonged to Lily's late husband. The theft was reported on Facebook by Lily's granddaughter, Emma, and the hospital has apologized and is investigating the incident. West Yorkshire Police are also involved and believe there may be two victims, both women in their 80s.",159,94,253,5,0.5,0.5,Question,Correct Answers,document,,
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Nova Lite,amazon.nova-lite-v1:0,"Lily Hartley, a patient at Bradford Royal Infirmary, had two sentimental rings belonging to her late husband stolen while she was in the hospital. Her granddaughter, Emma Hartley, reported the theft on Facebook, highlighting the rings' sentimental value. The Bradford Teaching Hospitals NHS Foundation Trust issued a sincere apology to the family and stated they were fully investigating the incident. West Yorkshire Police confirmed they were alerted to the theft involving Mrs. Hartley and another incident at the hospital, where two women in their 80s had jewelry stolen between 26 and 29 March.",142,112,254,5,0.5,0.5,Question,Correct Answers,document,,
+"Lily Hartley was in Bradford Royal Infirmary when two rings, which had belonged to her late husband, were taken.
+Her granddaughter, Emma Hartley, reported the theft on Facebook and said the rings had sentimental value.
+Bradford Teaching Hospitals NHS Foundation Trust said it ""sincerely apologised"" to the family.
+A spokesperson added they were ""fully investigating the matter.""
+Read more about this and other stories from across West Yorkshire
+West Yorkshire Police said it had been alerted to the theft relating to Mrs Hartley and also a second one at the hospital.
+Officers said it believed two victims, both women in their 80s, had items of jewellery taken between the 26 and 29 March.",Hospital bosses have apologised after a woman in her 80s had jewellery stolen whilst in hospital.,39515249,Nova Pro,amazon.nova-pro-v1:0,"Lily Hartley, a patient at Bradford Royal Infirmary, had two rings belonging to her late husband stolen. Her granddaughter, Emma Hartley, reported the theft on Facebook, highlighting the rings' sentimental value. The Bradford Teaching Hospitals NHS Foundation Trust apologized to the family and stated they are fully investigating the incident. West Yorkshire Police are also investigating, noting that two elderly female patients had jewelry stolen between March 26 and 29.",142,85,227,5,0.5,0.5,Question,Correct Answers,document,,
