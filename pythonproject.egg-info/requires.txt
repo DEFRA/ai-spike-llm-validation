@@ -5,6 +5,7 @@ deepeval
 fastparquet>=2025.12.0
 ipykernel
 ipywidgets
+jupyter>=1.0.0
 llm-client>=0.8.0
 llmlingua>=0.2.0
 nltk>=3.8.0
