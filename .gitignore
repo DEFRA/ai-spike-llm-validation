@@ -1,4 +1,4 @@
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .venv/
-pythonproject.egg-info
+pythonproject.egg-info/
 uv.lock
