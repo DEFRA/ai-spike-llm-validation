@@ -35,3 +35,6 @@ dev-dependencies = [
 [tool.setuptools.packages.find]
 where = ["."]
 exclude = ["data*", "output*"]
+
+[tool.taskipy.tasks]
+create-kernel = "ipython kernel install --user --env VIRTUAL_ENV $(pwd)/.venv --name=ai-spike-llm-validation"

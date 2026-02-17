@@ -31,7 +31,7 @@ If you are running the notebooks in VS Code, we recommend installing the followi
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - For Python language support.
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - For Jupyter notebook support.
 
-Ensure that the Jupyter kernel created by `uv` is selected in your VS Code environment which should be named `llm-validation`.
+Ensure that the Jupyter kernel created by `uv` is selected in your VS Code environment which should be named `ai-spike-llm-validation`.
 
 ### Jupyter Server
 If you prefer to run a Jupyter server directly, you can do so with the following command:
