@@ -20,7 +20,8 @@ dependencies = [
     "opendatasets",
     "python-dotenv>=1.0.0",
     "pyarrow>=23.0.0",
-    "tiktoken>=0.5.0"
+    "tiktoken>=0.5.0",
+    "taskipy>=1.14.1",
 ]
 
 [build-system]
